@@ -1,0 +1,7 @@
+dataset,role,format,subjects_processed,records_processed,positive_group,negative_or_comparison_group,main_limitations
+Dreem/narcolepsy,main analysis dataset,H5 wearable EEG plus report CSV features,47.0,363.0,narcolepsy,hypersomnia/comparison groups,Small number of narcolepsy subjects; wearable channel naming differs from PSG cohorts.
+Dreem stage-level H5,sleep-stage-aware Dreem feature experiment,H5 wearable EEG epoch parquet features aggregated within Wake/N1/N2/N3/REM,49.0,363.0,"narcolepsy, NT1, or NT2 depending on target",all other labelled Dreem participants,High-dimensional relative to sample size; NT2 has only 3 positive subjects.
+Dreem advanced H5,advanced EEG feature experiment,"H5 wearable EEG with entropy, spindle, slow-wave, spectral and time-domain features",47.0,363.0,narcolepsy,hypersomnia/comparison groups,Very high-dimensional relative to sample size; advanced features did not improve classification performance.
+CNC,external narcolepsy/control PSG experiment,EDF PSG plus CSV sleep-stage annotations,78.0,78.0,T1 narcolepsy,non-narcolepsy control,Only 23 of 56 official controls had matched EDF+CSV files; CHC2 files lacked metadata mapping.
+Simons,same-device external comparison,Dreem report CSV and EDF,95.0,100.0,not used as positive class,ASD-negative controls,"Different population and study context; useful for sensitivity, not primary narcolepsy evidence."
+PhysioNet Sleep-EDF,public reference dataset,EDF PSG plus hypnogram,,,sleep-stage labels,sleep-stage labels,"Practice/reference dataset, not a narcolepsy diagnostic cohort."

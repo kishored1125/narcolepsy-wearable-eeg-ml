@@ -1,0 +1,37 @@
+dataset,source,feature_family,feature_count
+Dreem combined,h5,spectral_power,660
+Dreem combined,h5,time_domain,364
+Dreem combined,h5,spectral_ratio,180
+Dreem combined,h5,hjorth,120
+Dreem combined,h5,sleep_architecture,71
+Dreem combined,report,sleep_architecture,285
+Dreem combined,report,other,50
+Dreem combined,report,respiratory_or_oxygen,5
+CNC EDF,engineered_features,sleep_architecture,10
+CNC EDF,engineered_features,spectral_power,360
+CNC EDF,engineered_features,relative_power_or_ratio,480
+CNC EDF,engineered_features,entropy_or_nonlinear,0
+CNC EDF,engineered_features,spindle_slowwave_events,0
+CNC EDF,engineered_features,time_domain,494
+CNC EDF,engineered_features,other_numeric,21
+Simons EDF,engineered_features,sleep_architecture,10
+Simons EDF,engineered_features,spectral_power,720
+Simons EDF,engineered_features,relative_power_or_ratio,961
+Simons EDF,engineered_features,entropy_or_nonlinear,0
+Simons EDF,engineered_features,spindle_slowwave_events,0
+Simons EDF,engineered_features,time_domain,974
+Simons EDF,engineered_features,other_numeric,29
+Dreem stage-level H5,engineered_features,sleep_architecture,0
+Dreem stage-level H5,engineered_features,spectral_power,600
+Dreem stage-level H5,engineered_features,relative_power_or_ratio,800
+Dreem stage-level H5,engineered_features,entropy_or_nonlinear,0
+Dreem stage-level H5,engineered_features,spindle_slowwave_events,0
+Dreem stage-level H5,engineered_features,time_domain,800
+Dreem stage-level H5,engineered_features,other_numeric,0
+Dreem advanced H5,engineered_features,sleep_architecture,10
+Dreem advanced H5,engineered_features,spectral_power,360
+Dreem advanced H5,engineered_features,relative_power_or_ratio,480
+Dreem advanced H5,engineered_features,entropy_or_nonlinear,120
+Dreem advanced H5,engineered_features,spindle_slowwave_events,360
+Dreem advanced H5,engineered_features,time_domain,496
+Dreem advanced H5,engineered_features,other_numeric,24

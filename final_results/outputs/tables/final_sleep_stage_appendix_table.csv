@@ -1,0 +1,51 @@
+dataset,group,stage_or_metric,value,percentage
+Dreem H5,overall,wake_epochs_mean_mean,458.6593664822832,
+Dreem H5,overall,wake_epochs_mean_std,186.9944591140258,
+Dreem H5,overall,wake_epochs_mean_median,469.7386363636364,
+Dreem H5,overall,REM_percentage_mean_mean,0.2458337169420161,
+Dreem H5,overall,REM_percentage_mean_std,0.060151921866866,
+Dreem H5,overall,REM_percentage_mean_median,0.2374489811326213,
+Dreem H5,overall,N1_percentage_mean_mean,0.0807396266296754,
+Dreem H5,overall,N1_percentage_mean_std,0.0412454243243708,
+Dreem H5,overall,N1_percentage_mean_median,0.0720293142637799,
+Dreem H5,overall,N2_percentage_mean_mean,0.4667307444949431,
+Dreem H5,overall,N2_percentage_mean_std,0.0540081063702199,
+Dreem H5,overall,N2_percentage_mean_median,0.4698017426504881,
+Dreem H5,overall,N3_percentage_mean_mean,0.2066959119333651,
+Dreem H5,overall,N3_percentage_mean_std,0.0660196272815218,
+Dreem H5,overall,N3_percentage_mean_median,0.2207993836389414,
+Dreem H5,overall,wake_epochs_mean_mean,383.41945831945833,
+Dreem H5,overall,wake_epochs_mean_std,154.8296938709667,
+Dreem H5,overall,wake_epochs_mean_median,436.3076923076923,
+Dreem H5,overall,REM_percentage_mean_mean,0.2780332403952592,
+Dreem H5,overall,REM_percentage_mean_std,0.076541286809605,
+Dreem H5,overall,REM_percentage_mean_median,0.2588369441277081,
+Dreem H5,overall,N1_percentage_mean_mean,0.0953188947494348,
+Dreem H5,overall,N1_percentage_mean_std,0.0325977631282159,
+Dreem H5,overall,N1_percentage_mean_median,0.0906763388432869,
+Dreem H5,overall,N2_percentage_mean_mean,0.4239358360746488,
+Dreem H5,overall,N2_percentage_mean_std,0.0672827311576022,
+Dreem H5,overall,N2_percentage_mean_median,0.4307234792441547,
+Dreem H5,overall,N3_percentage_mean_mean,0.2027120287806569,
+Dreem H5,overall,N3_percentage_mean_std,0.0705661448457371,
+Dreem H5,overall,N3_percentage_mean_median,0.1911064499129237,
+Dreem H5 stage-level experiment,overall,N1,22174.0,0.04996935225080676
+Dreem H5 stage-level experiment,overall,N2,128131.0,0.2887446141087815
+Dreem H5 stage-level experiment,overall,N3,56434.0,0.12717463808613821
+Dreem H5 stage-level experiment,overall,REM,76833.0,0.17314400836503271
+Dreem H5 stage-level experiment,overall,Wake,160180.0,0.3609673871892408
+CNC EDF,control,Wake,2706.0,0.12926957435627956
+CNC EDF,control,N1,1186.0,0.05665695313619644
+CNC EDF,control,N2,9861.0,0.47107438016528924
+CNC EDF,control,N3,4233.0,0.2022165958056657
+CNC EDF,control,REM,2947.0,0.14078249653656905
+CNC EDF,t1_narcolepsy,Wake,8577.0,0.1446545123370381
+CNC EDF,t1_narcolepsy,N1,8956.0,0.15104649790025804
+CNC EDF,t1_narcolepsy,N2,20340.0,0.3430421803585583
+CNC EDF,t1_narcolepsy,N3,9814.0,0.16551700875314118
+CNC EDF,t1_narcolepsy,REM,11606.0,0.19573980065100433
+Simons EDF controls,overall,Wake,10602.0,0.12906288802863194
+Simons EDF controls,overall,N1,14842.0,0.1806783044822633
+Simons EDF controls,overall,N2,3684.0,0.044846979767730624
+Simons EDF controls,overall,N3,31107.0,0.37867942443941277
+Simons EDF controls,overall,REM,21911.0,0.2667324032819614

@@ -1,0 +1,106 @@
+source,feature,importance
+Dreem report only,nrem_percentage_median,0.025462962962963
+Dreem report only,rem_percentage_median,0.0250000000000001
+Dreem report only,confidence_sleep_efficiency_min,0.0046296296296296
+Dreem report only,confidence_sleep_efficiency_mean,0.0013888888888888
+Dreem H5 only,eeg4_theta_alpha_ratio_std_min,0.0698232323232323
+Dreem H5 only,eeg2_iqr_mean_min,0.048989898989899
+Dreem H5 only,eeg4_theta_alpha_ratio_std_median,0.0483164983164983
+Dreem H5 only,eeg4_alpha_power_std_std,0.0445286195286195
+Dreem H5 only,eeg4_theta_alpha_ratio_mean_min,0.044486531986532
+Dreem H5 only,eeg1_delta_beta_ratio_mean_median,0.0335016835016835
+Dreem H5 only,eeg2_theta_alpha_ratio_std_mean,0.0256734006734007
+Dreem H5 only,eeg1_delta_sigma_ratio_mean_median,0.0178030303030303
+Dreem H5 only,eeg4_delta_beta_ratio_std_median,0.0116582491582491
+Dreem H5 only,eeg4_delta_sigma_ratio_mean_min,0.0115319865319865
+Dreem H5 only,eeg1_std_mean_median,0.0103535353535353
+Dreem H5 only,eeg1_delta_sigma_ratio_mean_mean,0.0102693602693602
+Dreem H5 only,eeg4_delta_beta_ratio_std_max,0.0092592592592593
+Dreem H5 only,eeg2_theta_alpha_ratio_std_std,0.0087962962962963
+Dreem H5 only,eeg1_theta_alpha_ratio_std_mean,0.0087542087542087
+Dreem H5 only,eeg4_delta_sigma_ratio_std_median,0.0075757575757575
+Dreem H5 only,eeg1_delta_sigma_ratio_std_std,0.0072390572390572
+Dreem H5 only,eeg4_iqr_mean_min,0.0055555555555555
+Dreem H5 only,eeg4_delta_beta_ratio_mean_median,0.0052609427609427
+Dreem H5 only,eeg1_delta_sigma_ratio_std_max,0.0052609427609427
+Dreem H5 only,eeg4_iqr_std_min,0.0041666666666667
+Dreem H5 only,eeg4_iqr_std_median,0.0032828282828283
+Dreem H5 only,eeg4_mean_std_min,0.0031565656565656
+Dreem H5 only,eeg1_delta_sigma_ratio_mean_std,0.0031565656565656
+Dreem H5 only,eeg4_delta_sigma_ratio_std_min,0.0027777777777778
+Dreem combined,report__confidence_n1_percentage_max,0.1042932804720547
+Dreem combined,h5__eeg4_theta_alpha_ratio_std_median,0.099466507797218
+Dreem combined,h5__eeg4_theta_alpha_ratio_std_min,0.0449476308825849
+Dreem combined,report__confidence_n1_duration_median,0.034700005934851
+Dreem combined,report__confidence_nrem_percentage_max,0.0341769018814526
+Dreem combined,h5__eeg4_delta_beta_ratio_mean_min,0.0338189408094644
+Dreem combined,report__confidence_nrem_duration_median,0.0315561172000552
+Dreem combined,report__confidence_waso_aasm_median,0.0309101031420708
+Dreem combined,h5__eeg4_theta_alpha_ratio_mean_min,0.0308669218610687
+Dreem combined,report__confidence_rem_percentage_max,0.0308179959940128
+Dreem combined,report__confidence_wake_duration_median,0.0301772583064497
+Dreem combined,h5__eeg4_delta_sigma_ratio_mean_min,0.0287267863182766
+Dreem combined,h5__eeg1_theta_alpha_ratio_std_mean,0.0275105923189285
+Dreem combined,report__confidence_sleep_efficiency_mean,0.0246470334739586
+Dreem combined,report__confidence_tst_median,0.0244408957944543
+Dreem combined,report__confidence_waso_median,0.0232182052703436
+Dreem combined,report__awakenings_median,0.0228585193797771
+Dreem combined,report__confidence_n1_percentage_median,0.0226731833029164
+Dreem combined,h5__eeg4_iqr_mean_min,0.0225201394928374
+Dreem combined,report__confidence_n1_duration_mean,0.0198061934530077
+Dreem combined,report__confidence_nrem_percentage_mean,0.0184591491456046
+Dreem combined,h5__eeg4_std_mean_min,0.0170875358180489
+Dreem combined,report__confidence_n3_percentage_mean,0.015124255318864
+Dreem combined,h5__eeg4_iqr_std_min,0.0150619326177946
+Dreem combined,report__confidence_n1_percentage_mean,0.0137612143203195
+Dreem advanced H5,eeg4_theta_alpha_ratio_mean_min,0.8248238322377233
+Dreem advanced H5,eeg4_theta_alpha_ratio_std_median,0.7683925011332317
+Dreem advanced H5,eeg4_theta_alpha_ratio_std_min,0.761456182211666
+Dreem advanced H5,eeg4_delta_sigma_ratio_mean_min,0.6269945083817884
+Dreem advanced H5,eeg2_slowwave_mean_envelope_mean_min,0.5997410831232772
+Dreem advanced H5,eeg4_iqr_std_min,0.546271663306326
+Dreem advanced H5,eeg4_delta_sigma_ratio_std_min,0.5119941823828674
+Dreem advanced H5,eeg1_theta_alpha_ratio_std_mean,0.5050815335834477
+Dreem advanced H5,eeg4_delta_beta_ratio_std_max,0.4993705020095244
+Dreem advanced H5,eeg2_theta_alpha_ratio_std_std,0.4900810088803809
+Dreem advanced H5,eeg2_iqr_mean_min,0.4559176772388602
+Dreem advanced H5,eeg2_theta_alpha_ratio_std_max,0.4406645659918478
+Dreem advanced H5,eeg1_delta_beta_ratio_mean_median,0.4103152217015562
+Dreem advanced H5,eeg4_alpha_power_std_std,0.4033047169200652
+Dreem advanced H5,eeg4_theta_power_std_std,0.4031379340592192
+Dreem advanced H5,eeg4_theta_power_std_mean,0.3740648804882608
+Dreem advanced H5,eeg4_delta_beta_ratio_mean_min,0.3688297400279021
+Dreem advanced H5,eeg2_mean_std_mean,0.3500108240293625
+Dreem advanced H5,eeg4_iqr_mean_min,0.3292909809570307
+Dreem advanced H5,eeg2_theta_alpha_ratio_std_mean,0.3215222791150727
+Dreem advanced H5,eeg4_theta_alpha_ratio_std_mean,0.3174862623428631
+Dreem advanced H5,eeg4_mean_std_min,0.2928909750693192
+Dreem advanced H5,eeg4_delta_sigma_ratio_mean_median,0.2820596386922332
+Dreem advanced H5,eeg4_theta_alpha_ratio_mean_median,0.2578123922875989
+Dreem advanced H5,eeg4_mean_median_min,0.241614810391965
+CNC EDF permutation,n_epochs_median,0.0015151515151515
+CNC EDF,f3_kurtosis_mean_max,0.0399992775672689
+CNC EDF,f3_kurtosis_mean_min,0.0302987514044699
+CNC EDF,n_epochs_mean,0.0292959245964967
+CNC EDF,n_epochs_max,0.028992750444393
+CNC EDF,n_epochs_median,0.0276542751058437
+CNC EDF,f3_kurtosis_mean_mean,0.0235924267049635
+CNC EDF,f3_kurtosis_mean_median,0.0227698750624217
+CNC EDF,f4_kurtosis_mean_median,0.0216876264777724
+CNC EDF,f4_kurtosis_mean_min,0.0198725380660388
+CNC EDF,f4_kurtosis_mean_mean,0.0191689066978129
+CNC EDF,N1_epochs_mean,0.0141726586399942
+CNC EDF,n_epochs_min,0.0132025033666984
+CNC EDF,f4_kurtosis_mean_max,0.0121749592847178
+CNC EDF,N2_percentage_mean,0.011597322610962
+CNC EDF,N1_epochs_min,0.0112651347058746
+CNC EDF,N1_epochs_median,0.0107098906808912
+CNC EDF,N1_percentage_min,0.0090006318000076
+CNC EDF,f4_delta_beta_ratio_median_median,0.0089755257077723
+CNC EDF,N2_percentage_max,0.0084488180089253
+CNC EDF,f3_beta_relative_power_median_mean,0.0082976862677055
+CNC EDF,f3_kurtosis_median_median,0.0081112743303749
+CNC EDF,N1_percentage_median,0.007972688734696
+CNC EDF,sleep_epochs_min,0.0076552465538128
+CNC EDF,f3_kurtosis_median_max,0.0073332690303474
+CNC EDF,N1_percentage_mean,0.0071027952550591

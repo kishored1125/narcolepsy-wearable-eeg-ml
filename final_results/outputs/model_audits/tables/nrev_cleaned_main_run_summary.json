@@ -1,0 +1,15 @@
+{
+  "combined_features": "dreem_nrev/outputs/feature_outputs/combined_subject_features.csv",
+  "output_dir": "final_results/outputs/model_audits",
+  "subjects": 47,
+  "narcolepsy_subjects": 11,
+  "other_hypersomnia_subjects": 36,
+  "cv_folds": 5,
+  "best_clean_feature_set": "combined_h5_report_artifacts_removed",
+  "best_clean_model": "logistic_regression",
+  "best_clean_balanced_accuracy": 0.6300505050505051,
+  "best_clean_macro_f1": 0.6258420085731782,
+  "best_clean_roc_auc": 0.6856060606060607,
+  "best_clean_sensitivity": 0.45454545454545453,
+  "best_clean_specificity": 0.8055555555555556
+}

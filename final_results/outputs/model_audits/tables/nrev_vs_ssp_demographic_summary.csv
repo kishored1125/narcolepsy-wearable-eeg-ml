@@ -1,0 +1,3 @@
+source_dataset,binary_target,subjects,age_mean,age_sd,age_min,age_median,age_max,female_or_zero_count,male_or_one_count
+narcolepsy_dreem,narcolepsy,11,18.09090909090909,4.72132492960494,12,17.0,24,7,4
+simons,external_control,95,8.189473684210526,2.5065647291305657,2,8.0,14,43,52

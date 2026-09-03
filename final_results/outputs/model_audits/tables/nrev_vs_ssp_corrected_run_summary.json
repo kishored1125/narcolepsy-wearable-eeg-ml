@@ -1,0 +1,22 @@
+{
+  "common_features": "simons_ssp/outputs/comparison_outputs/tables/narcolepsy_vs_simons_report_common_features.csv",
+  "output_dir": "final_results/outputs/model_audits",
+  "subjects": 106,
+  "nrev_narcolepsy_subjects": 11,
+  "ssp_control_subjects": 95,
+  "cv_folds": 5,
+  "feature_sets_tested": {
+    "original_common_report_features": 190,
+    "artifact_removed_report_features": 80,
+    "clean_sleep_architecture_features": 80,
+    "conservative_sleep_architecture_core": 80
+  },
+  "best_clean_feature_set": "clean_sleep_architecture_features",
+  "best_clean_model": "logistic_regression",
+  "best_clean_balanced_accuracy": 0.8933014354066986,
+  "best_clean_macro_f1": 0.8780768345985737,
+  "best_clean_roc_auc": 0.9779904306220095,
+  "best_clean_sensitivity": 0.8181818181818182,
+  "best_clean_specificity": 0.968421052631579,
+  "age_only_roc_auc": 0.9909090909090909
+}

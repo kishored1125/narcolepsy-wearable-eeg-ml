@@ -1,0 +1,21 @@
+dataset,experiment,model,metric,estimate,std,lower_95,upper_95,method,n
+Dreem,report_only,random_forest,balanced_accuracy,0.679702380952381,0.17436834604908055,0.3571428571428571,0.9375,fold distribution,50
+Dreem,report_only,random_forest,macro_f1,0.6586521811521812,0.16424571951614866,0.33869047619047615,0.8666666666666667,fold distribution,50
+Dreem,report_only,random_forest,roc_auc,0.8118452380952381,0.142995370140355,0.5160714285714285,1.0,fold distribution,50
+Dreem,report_only,random_forest,sensitivity_narcolepsy,0.5533333333333332,0.31486238580602927,0.0,1.0,fold distribution,50
+Dreem,report_only,random_forest,specificity_comparison,0.8060714285714284,0.13556507448850738,0.5714285714285714,1.0,fold distribution,50
+Dreem,h5_only,logistic_regression,balanced_accuracy,0.6377380952380952,0.20389557136306946,0.3571428571428571,1.0,fold distribution,50
+Dreem,h5_only,logistic_regression,macro_f1,0.6223721131809367,0.21092107520623204,0.3571428571428571,1.0,fold distribution,50
+Dreem,h5_only,logistic_regression,roc_auc,0.7085714285714286,0.22650102077362744,0.19508928571428577,1.0,fold distribution,50
+Dreem,h5_only,logistic_regression,sensitivity_narcolepsy,0.43333333333333335,0.3703892663358106,0.0,1.0,fold distribution,50
+Dreem,h5_only,logistic_regression,specificity_comparison,0.8421428571428571,0.13606101174516477,0.5714285714285714,1.0,fold distribution,50
+Dreem,combined_report_h5,random_forest,balanced_accuracy,0.7114880952380952,0.1792256097167802,0.3611607142857142,1.0,fold distribution,50
+Dreem,combined_report_h5,random_forest,macro_f1,0.6975736322501028,0.17860062654538603,0.3611607142857142,1.0,fold distribution,50
+Dreem,combined_report_h5,random_forest,roc_auc,0.7963095238095239,0.15744864526029848,0.5238095238095237,1.0,fold distribution,50
+Dreem,combined_report_h5,random_forest,sensitivity_narcolepsy,0.5733333333333333,0.3197221015541813,0.0,1.0,fold distribution,50
+Dreem,combined_report_h5,random_forest,specificity_comparison,0.849642857142857,0.14453686322637657,0.5714285714285714,1.0,fold distribution,50
+CNC,cnc_edf,random_forest,balanced_accuracy,0.91708350559273,0.037806240428481915,0.8322303613269207,0.9814898989898989,subject bootstrap over cross-validated predictions,2000
+CNC,cnc_edf,random_forest,macro_f1,0.9209285370968474,0.0344343872661303,0.8457742662333008,0.982905982905983,subject bootstrap over cross-validated predictions,2000
+CNC,cnc_edf,random_forest,roc_auc,0.9811369905912395,0.011975229001759433,0.9521410286336757,0.9989430523553507,subject bootstrap over cross-validated predictions,2000
+CNC,cnc_edf,random_forest,sensitivity,0.9638929333752639,0.025431120399279233,0.9056603773584906,1.0,subject bootstrap over cross-validated predictions,2000
+CNC,cnc_edf,random_forest,specificity,0.870274077810196,0.07116004726038158,0.7142857142857143,1.0,subject bootstrap over cross-validated predictions,2000

@@ -1,0 +1,12 @@
+area,status,evidence,next_action
+Main Dreem wearable EEG/report modelling,complete,"Dreem report-only, H5-only and combined models are included in final_master_results_table.csv.",Use as the main Narcolepsy Revolution result.
+Dreem hyperparameter tuning,complete,Best tuned random forest result is included as the top main Dreem model.,Report as the primary tuned model.
+Dreem channel strategy,complete,Best single-channel/aggregation result is included in the final master table.,Discuss as wearable-channel sensitivity analysis.
+Dreem diagnosis-specific NT1/NT2,complete but exploratory,NT1-vs-all and NT2-vs-all outputs are included; NT2 has only 3 positive subjects.,"Use cautiously in discussion, not as a central claim."
+Dreem stage-level epoch aggregation,complete,"H5 epoch-level features were aggregated into stage-level narcolepsy, NT1 and NT2 experiment outputs.",Use as a sleep-stage-aware feature experiment; present NT2 cautiously because there are only 3 positives.
+Dreem advanced H5 EEG features,complete,Full advanced H5 extraction processed 363 records and 49 subjects; advanced model outputs are included.,"Negative/extension experiment: entropy, spindle and slow-wave features were implemented but did not outperform simpler H5 or combined features."
+CNC EDF narcolepsy/control experiment,complete,78 EDF+CSV records processed with zero failures; corrected non-leaky random forest result is included.,Use as an external PSG narcolepsy/control experiment.
+Simons external-control experiment,complete,Report and EDF outputs are present; report comparison is included as sensitivity analysis.,Discuss as external-control/domain-shift experiment only.
+PhysioNet reference workflow,complete,Sleep-EDF baseline metrics and EDA outputs are present.,Use to explain development and validation of EDF processing workflow.
+Permutation importance,complete for Dreem; feature importance complete for CNC,Dreem permutation importance exists in final_diagnostic_analysis; CNC random forest importance is included.,Optional: add CNC permutation importance if more interpretability is needed.
+XGBoost benchmark,optional not run,xgboost is not installed in the local environment. Gradient boosting is already included as a fallback benchmark.,Optional only: install xgboost and rerun final model comparison.
