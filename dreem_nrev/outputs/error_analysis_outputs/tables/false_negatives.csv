@@ -1,0 +1,5 @@
+patient_id,NRID,sex,age,diagnosis,binary_target,predicted_target,probability_narcolepsy,is_correct,error_type
+narcorev_06,NR007,1.0,23,NT1,narcolepsy,comparison,0.4103880952380954,False,false_negative
+narcorev_24,NR023,0.0,24,NT2,narcolepsy,comparison,0.32011904761904747,False,false_negative
+narcorev_25,NR026,0.0,24,NT1,narcolepsy,comparison,0.08109523809523808,False,false_negative
+narcorev_28,NR029,0.0,17,NT1,narcolepsy,comparison,0.3524642857142858,False,false_negative

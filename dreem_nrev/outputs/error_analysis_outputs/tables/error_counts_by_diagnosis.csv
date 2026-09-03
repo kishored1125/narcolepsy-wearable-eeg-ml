@@ -1,0 +1,15 @@
+diagnosis,binary_target,predicted_target,error_type,subjects
+DSWPD,comparison,comparison,correct,1
+IH,comparison,comparison,correct,3
+ISS,comparison,comparison,correct,15
+Insomnia,comparison,comparison,correct,2
+KLS,comparison,comparison,correct,1
+NT1,narcolepsy,narcolepsy,correct,5
+NT2,narcolepsy,narcolepsy,correct,2
+Nil,comparison,comparison,correct,9
+PLMD,comparison,comparison,correct,1
+NT1,narcolepsy,comparison,false_negative,3
+NT2,narcolepsy,comparison,false_negative,1
+IH,comparison,narcolepsy,false_positive,1
+ISS,comparison,narcolepsy,false_positive,1
+Nil,comparison,narcolepsy,false_positive,2
