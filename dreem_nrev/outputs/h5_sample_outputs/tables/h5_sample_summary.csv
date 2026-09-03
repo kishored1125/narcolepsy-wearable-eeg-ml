@@ -1,0 +1,2 @@
+sample_recordings,subjects,feature_epochs_saved,signal_points_per_recording_saved,signal_version,channels,output_folder
+4,1,320,2000,filtered,eeg1; eeg2; eeg3; eeg4,dreem_nrev_nrev/outputs/h5_sample_outputs
