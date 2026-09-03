@@ -1,0 +1,2 @@
+data_root_read_only,scratch_output,home_output,h5_files_seen,records_processed,records_failed,subjects_processed,channels,signal_version,epoch_feature_files
+<DREEM_NREV_ROOT>,<OUTPUT_ROOT>/nrev_epoch_outputs,<OUTPUT_ROOT>/nrev_summary_outputs,380,363,17,49,"['eeg1', 'eeg2', 'eeg3', 'eeg4']",filtered,363
