@@ -1,0 +1,2 @@
+dataset,input_file,subjects,controls,t1_narcolepsy,features_used,cv_splits,best_model,best_balanced_accuracy,best_macro_f1,best_roc_auc
+cnc_edf,<PROJECT_ROOT>/dreem_nrev/improvements/external_cnc_control/outputs/edf_outputs/cnc_edf_subject_features_with_official_metadata.csv,78,23,55,1108,5,random_forest,0.916600790513834,0.9219219219219219,0.9810276679841897

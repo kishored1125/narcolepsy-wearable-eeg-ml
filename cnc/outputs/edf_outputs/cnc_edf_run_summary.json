@@ -1,0 +1,13 @@
+{
+  "data_root_read_only": "CNC_ROOT",
+  "metadata": "prefix-inferred fallback",
+  "scratch_output": "<OUTPUT_ROOT>/cnc_outputs_test_mixed",
+  "home_output": "<OUTPUT_ROOT>/cnc_final_outputs_test_mixed",
+  "candidate_records": 78,
+  "records_processed": 78,
+  "records_failed": 0,
+  "subjects_processed": 78,
+  "control_subjects_processed": 23,
+  "t1_narcolepsy_subjects_processed": 55,
+  "epoch_feature_files": 78
+}

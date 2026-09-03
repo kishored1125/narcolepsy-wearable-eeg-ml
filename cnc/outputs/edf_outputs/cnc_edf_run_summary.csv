@@ -1,0 +1,2 @@
+data_root_read_only,metadata,scratch_output,home_output,candidate_records,records_processed,records_failed,subjects_processed,control_subjects_processed,t1_narcolepsy_subjects_processed,epoch_feature_files
+CNC_ROOT,prefix-inferred fallback,<OUTPUT_ROOT>/cnc_outputs_test_mixed,<OUTPUT_ROOT>/cnc_final_outputs_test_mixed,78,78,0,78,23,55,78
