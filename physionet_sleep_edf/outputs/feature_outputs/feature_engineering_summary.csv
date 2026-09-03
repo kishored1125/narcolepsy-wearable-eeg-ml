@@ -1,0 +1,2 @@
+subjects_requested,recordings_processed,subjects_processed,epochs_after_trimming,best_model,best_balanced_accuracy,best_macro_f1
+40,40,21,43330,linear_svm,0.7248406213772209,0.7008731386515287
