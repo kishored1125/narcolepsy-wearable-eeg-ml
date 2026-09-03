@@ -1,0 +1,4 @@
+dataset,subjects,narcolepsy_subjects,comparison_subjects,features_after_qc,selected_features_per_fold,best_model,best_balanced_accuracy_mean,best_macro_f1_mean,best_roc_auc_mean
+report_only,47,11,36,340,50,random_forest,0.679702380952381,0.6586521811521812,0.8118452380952381
+h5_only,47,11,36,1390,50,logistic_regression,0.6377380952380952,0.6223721131809367,0.7085714285714286
+combined_report_h5,47,11,36,1730,50,random_forest,0.7114880952380952,0.6975736322501028,0.7963095238095238
