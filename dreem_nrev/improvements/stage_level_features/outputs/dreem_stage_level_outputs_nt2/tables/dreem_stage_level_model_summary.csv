@@ -1,0 +1,2 @@
+cv_folds,balanced_accuracy,macro_f1,roc_auc,sensitivity,specificity,tn,fp,fn,tp,target,epoch_files,epochs,labelled_subjects,narcolepsy_subjects,comparison_subjects,raw_stage_features,features_after_qc
+3,0.5,0.4842105263157895,0.8768115942028986,0.0,1.0,46,0,3,0,nt2_vs_other,363,443752,49,3,46,2200,2200

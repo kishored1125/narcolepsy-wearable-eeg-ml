@@ -1,0 +1,2 @@
+data_root_read_only,scratch_output,home_output,h5_files_seen,records_processed,records_failed,subjects_processed,channels,signal_version,include_sample_entropy,epoch_feature_files,entropy_feature_count,spindle_feature_count,slowwave_feature_count,total_subject_feature_columns
+<DREEM_NREV_ROOT>,<OUTPUT_ROOT>/dreem_h5_advanced,<OUTPUT_ROOT>/dreem_h5_advanced_home,380,363,17,49,"['eeg1', 'eeg2', 'eeg3', 'eeg4']",filtered,False,363,120,180,180,1876

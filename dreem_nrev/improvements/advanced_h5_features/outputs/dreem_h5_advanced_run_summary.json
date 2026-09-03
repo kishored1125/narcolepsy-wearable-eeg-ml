@@ -1,0 +1,22 @@
+{
+  "data_root_read_only": "<DREEM_NREV_ROOT>",
+  "scratch_output": "<OUTPUT_ROOT>/dreem_h5_advanced",
+  "home_output": "<OUTPUT_ROOT>/dreem_h5_advanced_home",
+  "h5_files_seen": 380,
+  "records_processed": 363,
+  "records_failed": 17,
+  "subjects_processed": 49,
+  "channels": [
+    "eeg1",
+    "eeg2",
+    "eeg3",
+    "eeg4"
+  ],
+  "signal_version": "filtered",
+  "include_sample_entropy": false,
+  "epoch_feature_files": 363,
+  "entropy_feature_count": 120,
+  "spindle_feature_count": 180,
+  "slowwave_feature_count": 180,
+  "total_subject_feature_columns": 1876
+}

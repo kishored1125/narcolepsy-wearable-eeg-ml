@@ -1,0 +1,23 @@
+{
+  "epoch_dir_read_only": "<OUTPUT_ROOT>/dreem_h5_stage_rerun/epoch_features_by_record",
+  "label_csv_read_only": "dreem_nrev_nrev/outputs/loading_outputs/diagnosis_mapping.csv",
+  "output_dir": "<OUTPUT_ROOT>/dreem_stage_level_outputs",
+  "cv_folds": 5,
+  "balanced_accuracy": 0.6674641148325359,
+  "macro_f1": 0.650958904109589,
+  "roc_auc": 0.6004784688995215,
+  "sensitivity": 0.5454545454545454,
+  "specificity": 0.7894736842105263,
+  "tn": 30,
+  "fp": 8,
+  "fn": 5,
+  "tp": 6,
+  "target": "narcolepsy_vs_other",
+  "epoch_files": 363,
+  "epochs": 443752,
+  "labelled_subjects": 49,
+  "narcolepsy_subjects": 11,
+  "comparison_subjects": 38,
+  "raw_stage_features": 2200,
+  "features_after_qc": 2200
+}
