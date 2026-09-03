@@ -1,0 +1,4 @@
+model,balanced_accuracy,macro_f1,sensitivity_narcolepsy,specificity_external_control,roc_auc,features_after_qc,cv_splits
+random_forest,1.0,1.0,1.0,1.0,1.0,190,5
+logistic_regression,0.9545454545454546,0.9735726751433558,0.9090909090909091,1.0,1.0,190,5
+linear_svm,0.9545454545454546,0.9735726751433558,0.9090909090909091,1.0,1.0,190,5

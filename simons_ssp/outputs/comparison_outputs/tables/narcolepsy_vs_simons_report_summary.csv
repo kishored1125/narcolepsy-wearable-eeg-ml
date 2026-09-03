@@ -1,0 +1,2 @@
+narcolepsy_subjects,simons_asd_false_controls,common_features,model,balanced_accuracy,macro_f1,sensitivity_narcolepsy,specificity_external_control,roc_auc,features_after_qc,cv_splits
+11,95,190,random_forest,1.0,1.0,1.0,1.0,1.0,190,5

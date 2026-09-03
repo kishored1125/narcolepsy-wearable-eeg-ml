@@ -1,0 +1,11 @@
+{
+  "participants_seen":50,
+  "data_root_read_only":"\/vol\/research\/baladat1\/data\/simons_sleep",
+  "metadata":"\/vol\/research\/baladat1\/data\/simons_sleep\/_meta\/20241125_participant_data_diag.csv",
+  "scratch_output":"\/scratch\/USER_ID\/simons_outputs_50x2",
+  "home_output":"\/scratch\/USER_ID\/simons_final_outputs\/edf_outputs_50x2",
+  "records_processed":100,
+  "participants_processed":50,
+  "failures":0,
+  "epoch_feature_files":100
+}

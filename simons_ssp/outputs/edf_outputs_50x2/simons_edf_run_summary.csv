@@ -1,0 +1,2 @@
+participants_seen,data_root_read_only,metadata,scratch_output,home_output,records_processed,participants_processed,failures,epoch_feature_files
+50,SIMONS_ROOT,SIMONS_ROOT/_meta/20241125_participant_data_diag.csv,<OUTPUT_ROOT>/simons_outputs_50x2,<OUTPUT_ROOT>/simons_final_outputs/edf_outputs_50x2,100,50,0,100

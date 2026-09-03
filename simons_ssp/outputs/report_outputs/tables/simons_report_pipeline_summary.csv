@@ -1,0 +1,2 @@
+participants_discovered,data_root_read_only,metadata,output_dir,participants_with_reports,report_records,subjects_after_metadata_merge,asd_true_subjects,asd_false_subjects,features
+1,<DATA_ROOT>/simens,<DATA_ROOT>/simens/20241125_participant_data_diag.csv,<PROJECT_ROOT>/dreem_nrev/improvements/external_simons_control/outputs/report_outputs,1,20,1,1,0,203
